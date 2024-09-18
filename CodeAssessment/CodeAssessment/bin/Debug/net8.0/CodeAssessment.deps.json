@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CodeAssessment/1.0.0": {
+        "runtime": {
+          "CodeAssessment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeAssessment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

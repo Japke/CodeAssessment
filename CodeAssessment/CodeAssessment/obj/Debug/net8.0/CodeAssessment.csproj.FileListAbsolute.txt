@@ -1,0 +1,14 @@
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\bin\Debug\net8.0\CodeAssessment.exe
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\bin\Debug\net8.0\CodeAssessment.deps.json
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\bin\Debug\net8.0\CodeAssessment.runtimeconfig.json
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\bin\Debug\net8.0\CodeAssessment.dll
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\bin\Debug\net8.0\CodeAssessment.pdb
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\CodeAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\CodeAssessment.AssemblyInfoInputs.cache
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\CodeAssessment.AssemblyInfo.cs
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\CodeAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\CodeAssessment.dll
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\refint\CodeAssessment.dll
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\CodeAssessment.pdb
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\CodeAssessment.genruntimeconfig.cache
+C:\Users\Japke\RiderProjects\CodeAssessment\CodeAssessment\obj\Debug\net8.0\ref\CodeAssessment.dll
